@@ -90,3 +90,6 @@ temp/
 *.njsproj
 *.sln
 *.sw?
+
+# History files
+.history/
